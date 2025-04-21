@@ -21,25 +21,25 @@ Optimized Portfolio
 Optimal Weights (based on training data, April 2019–March 2022):
 - RELIANCE.NS: 0.00%
 - TCS.NS: 0.00%
-- HDFCBANK.NS: 2.95%
-- HINDUNILVR.NS: 0.00%
-- INFY.NS: 0.00%
+- HDFCBANK.NS: 71.18%
+- HINDUNILVR.NS: 23.21%
+- INFY.NS: 5.61%
 
-Expected Annual Return: 181.38%
-Expected Annual Volatility: 774.63%
-Sharpe Ratio: 0.23
+Expected Annual Return: 35.93%
+Expected Annual Volatility: 426.89%
+Sharpe Ratio: 0.07
 
 Portfolio PnL
 -------------
 Initial Investment: INR 100,000.00
-Final Portfolio Value (March 2025): INR inf
-Total Profit/Loss: INR inf
+Final Portfolio Value (March 2025): INR 94,622.40
+Total Profit/Loss: INR -5,377.60
 
 Performance Metrics
 ------------------
-- Annualized Return (Backtest, April 2022–March 2025): inf%
-- Annualized Volatility (Backtest): nan%
-- Sharpe Ratio (Backtest): nan
+- Annualized Return (Backtest, April 2022–March 2025): 0.18%
+- Annualized Volatility (Backtest): 20.30%
+- Sharpe Ratio (Backtest): -0.19
 
 Data Sources
 ------------
